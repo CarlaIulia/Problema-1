@@ -6,4 +6,4 @@ Pentru rezolvarea problemei 2 din Tema-pyton am folosit tot Visual Studio 2022( 
 pandas(se introduc in terminal comenzile pip install matplotlib si pip install pandas).Am declarat variabilele X si Y (asociate fiecarui student).
 Am importat fisierul data.csv. Citirea datelor pe baza carora se vor crea graficele se face din acest fisier. Graficele apar succesiv dupa apasarea butonului "Run".
 Referinte: link-urile trimise pe Teams , https://www.w3schools.com/python/default.asp ,https://chat.openai.com/share/4eecc1d4-031c-4b54-b52c-0d88478873b1
-Github: 
+Github: https://github.com/CarlaIulia
